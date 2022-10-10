@@ -5,9 +5,9 @@
 
 
 
-### My name is Julia, but many know me as Init. I've been a technician in Information Technology since 2020, and that's why I immersed myself in the area of programming.
+### The fact that coding, requires both sides of the brain, is amazing, because I consider myself a person as much as logic, as creative, like 50/50.
 
-<img align="center" src="https://cdn.discordapp.com/attachments/1013431298725003315/1028835680492720169/unknown.png">
+<img align="center" src="https://media.discordapp.net/attachments/989981120978366554/1028837514003353701/l6159.png">
 
 
 ##
