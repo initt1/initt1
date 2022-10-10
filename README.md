@@ -1,16 +1,20 @@
-### Hi there 👋
+<img align="center" src="https://c.tenor.com/oRfhzyilq6cAAAAd/interface-kami.gif">
 
-<!--
-**initt1/initt1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### My name is Julia, but many know me as Init. I've been a technician in Information Technology since 2020, and that's why I immersed myself in the area of programming.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 💬 Ask me about whatever u want, i love breaking my head :)
+- 💣 Fun fact: neurodivergent
+
+##
+
+<div style="display: inline_block"><br>
+  linguages:<br>
+  <img align="center" "height="34" width="34" src="https://icons.iconarchive.com/icons/alecive/flatwoken/512/Apps-Java-icon.png">
+  <img align="center" alt="Init-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Init-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Init-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Init-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
+
