@@ -1,16 +1,19 @@
+### About me
+##
+- 💬 Ask me about whatever u want, i love breaking my head :)
+- 💣 Fun fact: neurodivergent
+
 <img align="center" src="https://c.tenor.com/oRfhzyilq6cAAAAd/interface-kami.gif">
 
 
 ### My name is Julia, but many know me as Init. I've been a technician in Information Technology since 2020, and that's why I immersed myself in the area of programming.
 
 
-- 💬 Ask me about whatever u want, i love breaking my head :)
-- 💣 Fun fact: neurodivergent
+
 
 ##
 
 <div style="display: inline_block"><br>
-  linguages:<br>
   <img align="center" "height="34" width="34" src="https://icons.iconarchive.com/icons/alecive/flatwoken/512/Apps-Java-icon.png">
   <img align="center" alt="Init-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Init-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
