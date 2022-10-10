@@ -3,11 +3,10 @@
 - 💬 Ask me about whatever u want, i love breaking my head :)
 - 💣 Fun fact: neurodivergent
 
+### The fact that coding, requires both sides of the brain, is amazing, because I consider myself a person as much as logic,  as creative, like 50/50.
 
-
-### The fact that coding, requires both sides of the brain, is amazing, because I consider myself a person as much as logic, as creative, like 50/50.
-
-<img align="center" src="https://media.discordapp.net/attachments/989981120978366554/1028837514003353701/l6159.png">
+<img align="right" height="500" style="border-radius:200px;" 
+     src="https://media.discordapp.net/attachments/989981120978366554/1028837514003353701/l6159.png">
 
 
 ##
