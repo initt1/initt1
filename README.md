@@ -3,12 +3,11 @@
 - 💬 Ask me about whatever u want, i love breaking my head :)
 - 💣 Fun fact: neurodivergent
 
-<img align="center" src="https://c.tenor.com/oRfhzyilq6cAAAAd/interface-kami.gif">
 
 
 ### My name is Julia, but many know me as Init. I've been a technician in Information Technology since 2020, and that's why I immersed myself in the area of programming.
 
-
+<img align="center" src="https://cdn.discordapp.com/attachments/1013431298725003315/1028835680492720169/unknown.png">
 
 
 ##
