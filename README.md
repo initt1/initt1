@@ -45,7 +45,7 @@
 </div>
 
 
-<div style="display: inline_block"><br>
+<div align="center"><br>
   <img align="center" "height="34" width="34" src="https://icons.iconarchive.com/icons/alecive/flatwoken/512/Apps-Java-icon.png">
   <img align="center" alt="Init-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Init-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
