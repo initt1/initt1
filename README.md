@@ -9,8 +9,8 @@
 </div>
 
 <div>
-<img align="right" height="90000" style="border-radius:200px;" 
-     src="https://i.pinimg.com/originals/0d/31/53/0d3153dae862a64637a2fa4d5959616c.gif">
+<img align="right" height="200" style="border-radius:200px;" 
+     src="https://cdn.discordapp.com/attachments/1010688489056108595/1029804483414343700/pokemon.gif">
 <p>🚩 ▸ Brazilian student
 <p>💣 ▸ Fun fact: neurodivergent  //thats not a joke
 <p>🎲 ▸ I love thinking of solutions to code problems
