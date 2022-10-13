@@ -40,7 +40,8 @@
 [twitter](https://twitter.com/xolea6) ~
 [steam](https://steamcommunity.com/id/Initt1/) ~
 [spotify](https://open.spotify.com/user/kn59ktuc1amdop6minhvk9byz) ~
-[last.fm](https://www.last.fm/user/computter) 
+[last.fm](https://www.last.fm/user/computter) ~
+[pinterest](https://pin.it/13mNQX6) 
    
 </div>
 
