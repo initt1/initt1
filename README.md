@@ -12,7 +12,6 @@
 <img align="right" height="200" style="border-radius:200px;" 
      src="https://cdn.discordapp.com/attachments/1010688489056108595/1029804483414343700/pokemon.gif">
 <p>🚩 ▸ Brazilian student
-<p>💣 ▸ Fun fact: neurodivergent  //thats not a joke
 <p>🎲 ▸ I love thinking of solutions to code problems
 <p>💬 ▸ Ask me about whatever u want, i need to learn
 </div>
